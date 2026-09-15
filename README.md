@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Milo!
 
-🎓 **19-year-old Software Development student from Australia**
+🎓 **20-year-old Software Development student from Australia**
 
 ---
 
